@@ -1,0 +1,2 @@
+Test MAP: MAP(i->t): 0.7840 | MAP(Pi->t): 0.2748 | MAP(t->i): 0.8322 | MAP(t->Pi): 0.7836
+Test NDCG: NDCG(i->t): 0.4607 | NDCG(Pi->t): 0.1543 | NDCG(t->i): 0.4846 | NDCG(t->Pi): 0.4697

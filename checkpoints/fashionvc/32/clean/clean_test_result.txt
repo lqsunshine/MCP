@@ -1,0 +1,1 @@
+Test MAP: MAP(i->t): 0.8118 | MAP(t->i): 0.8361 | NDCG(i->t): 0.4729 | NDCG(t->i): 0.4883
