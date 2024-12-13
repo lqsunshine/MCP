@@ -11,7 +11,7 @@ Our dependency (Python 3.7, tensorflow 2.7.0, CUDA Version 11.6)
 ```sh
 pip install -r requirements.txt
 ```
-* or download an entire package of environment and unzip it to conda's env folder, then just load it.
+* or download an entire environment package, unzip it to Conda's env folder, and load it.
 
 https://pan.baidu.com/s/1tkOPbWnX8QdnDipZtAZJyQ password: kcd3 
 
@@ -93,10 +93,4 @@ https://pan.baidu.com/s/1d72uQmjFjCn0bCzUDI_XeA password: 4ut7
 
 > Dataset source and Pytorch&TensorFlow souce code：https://github.com/lqsunshine/MCP
 
-note: remember to change backdoor/init.py/model_path to the path of pre-training weight of StegaStamp's encoder. 
-=======
-This is the official implementation of our paper "Mitigating Cross-modal Retrieval Violations with Privacy-preserving
-Backdoor Learning". This research project is developed based on Python 3, Pytorch and TensorFlow, created by Qiang Liu.
-
-The codes will be released upon the acceptance of this paper.
->>>>>>> 5a119e4e47c1032371711a170717794b3f2948bd
+Note: Remember to change backdoor/init.py/model_path to the path of the pre-training weight of StegaStamp's encoder. 
