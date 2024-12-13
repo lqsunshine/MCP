@@ -1,4 +1,5 @@
 # MCP
+<<<<<<< HEAD
 
 PyTorch and tensorflow implementataion for the TCSVT 2024 paper: Mitigating Cross-modal Retrieval Violations with
 Privacy-preserving Backdoor Learning
@@ -94,3 +95,9 @@ https://pan.baidu.com/s/1d72uQmjFjCn0bCzUDI_XeA password: 4ut7
 > Dataset source and Pytorch&TensorFlow souce code：https://github.com/lqsunshine/MCP
 
 note: remember to change backdoor/init.py/model_path to the path of pre-training weight of StegaStamp's encoder. 
+=======
+This is the official implementation of our paper "Mitigating Cross-modal Retrieval Violations with Privacy-preserving
+Backdoor Learning". This research project is developed based on Python 3, Pytorch and TensorFlow, created by Qiang Liu.
+
+The codes will be released upon the acceptance of this paper.
+>>>>>>> 5a119e4e47c1032371711a170717794b3f2948bd
