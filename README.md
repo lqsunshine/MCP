@@ -1,5 +1,4 @@
 # MCP
-<<<<<<< HEAD
 
 PyTorch and tensorflow implementataion for the TCSVT 2024 paper: Mitigating Cross-modal Retrieval Violations with
 Privacy-preserving Backdoor Learning
