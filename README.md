@@ -13,7 +13,7 @@ pip install -r requirements.txt
 ```
 * or download an entire environment package, unzip it to Conda's env folder, and load it.
 
-https://pan.baidu.com/s/1tkOPbWnX8QdnDipZtAZJyQ password: kcd3 
+https://pan.baidu.com/s/1qLgwsCjF8FtCcPfTzzDW3A?pwd=ef72 password: ef72 
 
 
 ## Usage
@@ -33,6 +33,7 @@ python main.py test --flag 'fvc' --group 'clean' #test
 ```
 
 * Also, you can directly download the pre-training weight to test.
+  
 https://pan.baidu.com/s/1a0Wfb-lviKC_6S4xKSu06g?pwd=a818 password: a818 
 (stored in checkpoints/dataset_name/bit_size/group_name) 
 
@@ -55,6 +56,7 @@ python backdoor_main.py test --flag 'fvc' --group 'StegaStamp_label' --backdoor_
 ```
 
 * Also, you can directly download the pre-training weight to test.
+  
 https://pan.baidu.com/s/1E2eWAVHLIAVLBOysE6jHSA?pwd=6fnj password: 6fnj 
 
 **Train/test MCP model**
@@ -73,8 +75,9 @@ python backdoor_main_lg.py train --flag 'fvc' --backdoor_loss True --group 'Steg
 python backdoor_main_lg.py test --flag 'fvc' --group 'StegaStamp_loss_lg' --backdoor_trigger 'StegaStamp' #test
 ```
 
-* Also, you can directly download the pre-training weight to test:
-https://pan.baidu.com/s/1d72uQmjFjCn0bCzUDI_XeA password: 4ut7
+* Also, you can directly download the pre-training weight to test.
+https://pan.baidu.com/s/1CCXCpCDU6zobjGgKp2SPZQ?pwd=nkd5 password: nkd5 
+
 
 
 ## Dataset
