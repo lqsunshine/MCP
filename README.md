@@ -33,7 +33,7 @@ python main.py test --flag 'fvc' --group 'clean' #test
 ```
 
 * Also, you can directly download the pre-training weight to test.
-https://pan.baidu.com/s/1p_YYxVmROmvArMKqLVhVJA password: 7gud
+https://pan.baidu.com/s/1a0Wfb-lviKC_6S4xKSu06g?pwd=a818 password: a818 
 (stored in checkpoints/dataset_name/bit_size/group_name) 
 
 **Train/test LBL model**
@@ -55,7 +55,7 @@ python backdoor_main.py test --flag 'fvc' --group 'StegaStamp_label' --backdoor_
 ```
 
 * Also, you can directly download the pre-training weight to test.
-https://pan.baidu.com/s/1Ybdhc61BeMZjAsTqZ7megg password: z9uj
+https://pan.baidu.com/s/1E2eWAVHLIAVLBOysE6jHSA?pwd=6fnj password: 6fnj 
 
 **Train/test MCP model**
 
